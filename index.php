@@ -9,8 +9,8 @@
 </head>
 <body>
 	<div class="wrapper">
-		<div class="header"></div>
+		<div class="header"><?php include "header.php"; ?></div>
 		<div class="content"><?php include "display.php"; ?></div>
-		<div class="footer"></div>
+		<div class="footer"><?php include "footer.php"; ?></div>
 	</div>
 </body>
