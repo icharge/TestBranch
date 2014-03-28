@@ -1,3 +1,3 @@
 <?php
 	// Configuration file
-	$fileVer = "0.1";
+	$fileVer = "DEV 0.2";
